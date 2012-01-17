@@ -24,7 +24,7 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
-  <project path="common" name="CyanogenMod/android_device_common" />
+  <project path="device/common" name="CyanogenMod/android_device_common" />
   <!-- Device directories go here -->
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />

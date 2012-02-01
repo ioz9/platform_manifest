@@ -6,4 +6,5 @@
 
 ### 01/31/2012
 * Using a local frameworks/base instead of the CM repo. Currently the only change is a statusbar fix for when the lockscreen is disabled.
+* Ok so this fix was merged about 2 hours after my changing it here, reverting back to Cyanogen framework repo to easier keep up w/ other changes.
 

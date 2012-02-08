@@ -11,3 +11,6 @@
 ### 02/01/2012
 * Using a local [build](https://github.com/IngCr3at1on/android_build) repo instead of the CM one. See the readme/history markdowns for more information.
 
+### 02/08/2012
+* Using local [frameworks_base](https://github.com/IngCr3at1on/android_frameworks_base) repo instead of CM one. See the readme/history markdowns for more informations.
+

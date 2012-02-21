@@ -24,8 +24,9 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
-  <project path="device/common" name="CyanogenMod/android_device_common" />
   <!-- Device directories go here -->
+  <project path="device/amazon/blaze" name="IngCr3t1on/android_device_amazon_blaze" />
+  <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
@@ -220,6 +221,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 <!-- Use local Cyanogen Vendor for Blaze files -->
+  <project path="vendor/amazon/blaze" name="IngCr3at1on/android_vendor_amazon_blaze" />
   <project path="vendor/cyanogen" name="IngCr3at1on/android_vendor_cyanogen" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />

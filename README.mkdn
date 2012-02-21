@@ -1,3 +1,3 @@
-This repo is deprecated and will be deleted shortly; it has been left online (temporarily) to try to avoid causing build issues for others.
-
-Please use [platform_manifest](https://github.com/IngCr3at1on/platform_manifest) for all future builds.
+### Android Platform Manifest
+* Please see device directory for build instructions.
+* [Amazon Kindle Fire](https://github.com/IngCr3at1on/android_device_amazon_blaze)

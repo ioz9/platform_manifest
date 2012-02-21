@@ -17,4 +17,4 @@
 ### 02/21/2012
 * Added device/amazon/blaze and vendor/amazon/blaze.
 * Updated readme.
-
+* Added twrp checkout option.

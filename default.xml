@@ -25,7 +25,7 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <!-- Device directories go here -->
-  <project path="device/amazon/blaze" name="IngCr3t1on/android_device_amazon_blaze" />
+  <project path="device/amazon/blaze" name="IngCr3at1on/android_device_amazon_blaze" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />

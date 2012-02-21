@@ -14,3 +14,6 @@
 ### 02/08/2012
 * Using local [frameworks_base](https://github.com/IngCr3at1on/android_frameworks_base) repo instead of CM one. See the readme/history markdowns for more informations.
 
+### 02/21/2012
+* Deprecated; please use [platform_manifest](https://github.com/IngCr3at1on/platform_manifest).
+

@@ -1,16 +1,3 @@
-Use this repo for building for the Kindle Fire (currently Gingerbread is the only maintained branch)
+This repo is deprecated and will be deleted shortly; it has been left online (temporarily) to try to avoid causing build issues for others.
 
-Getting Started
----------------
-
-To get started please see the readme provided with the [device tree](https://github.com/IngCr3at1on/CM7KF)
-
-To initialize your local repository using a modified CyanogenMod trees (removed all CM devices from manifest and added an extra build config for non CM supported devices 'not_so_common'), use a command like this:
-
-    repo init -u git://github.com/IngCr3at1on/android.git -b gingerbread
-
-Then to sync up:
-
-    repo sync
-
-Building instructions are also included in the readme provided with the device tree.
+Please use [platform_manifest](https://github.com/IngCr3at1on/platform_manifest) for all future builds.

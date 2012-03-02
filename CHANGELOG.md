@@ -9,12 +9,15 @@
 * Ok so this fix was merged about 2 hours after my changing it here, reverting back to Cyanogen framework repo to easier keep up w/ other changes.
 
 ### 02/01/2012
-* Using a local [build](https://github.com/IngCr3at1on/android_build) repo instead of the CM one. See the readme/history markdowns for more information.
+* Using a local [build](https://github.com/IngCr3at1on/android_build) repo instead of the CM one. See the corresponding readme/history markdowns for more information.
 
 ### 02/08/2012
-* Using local [frameworks_base](https://github.com/IngCr3at1on/android_frameworks_base) repo instead of CM one. See the readme/history markdowns for more informations.
+* Using local [frameworks_base](https://github.com/IngCr3at1on/android_frameworks_base) repo instead of CM one. See the corresponding readme/history markdowns for more information.
 
 ### 02/21/2012
 * Added device/amazon/blaze and vendor/amazon/blaze.
 * Updated readme.
+
+### 03/02/2012
+* Using local [bootable_recovery](https://github.com/IngCr3at1on/android_bootable_recovery) repo instead of CM one. See the corresponding readme/history markdowns for more information.
 

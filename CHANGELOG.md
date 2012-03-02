@@ -18,3 +18,8 @@
 * Added device/amazon/blaze and vendor/amazon/blaze.
 * Updated readme.
 * Added twrp checkout option.
+
+### 03/02/2012
+* Changed fetch to use whatever delivery method is chosen on init (this is done per CM to avoid conflicts, githubs preferred delivery method is HTTP and therefore it is suggested but if you have issues you can init with normal git) (this causes some sync errors with older versions of repo please see the commit message for more information).
+* This will likely be my last commit to the TWRP branch; now that we have a preferred recovery I see very little need in maintaining a deprecated version.
+

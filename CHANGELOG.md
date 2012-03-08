@@ -23,3 +23,5 @@
 * Changed fetch to use whatever delivery method is chosen on init (this is done per CM to avoid conflicts, githubs preferred delivery method is HTTP and therefore it is suggested but if you have issues you can init with normal git) (this causes some sync errors with older versions of repo please see the commit message for more information).
 * This will likely be my last commit to the TWRP branch; now that we have a preferred recovery I see very little need in maintaining a deprecated version.
 
+### 03/07/2012
+* Using a local [packages_apps_Phone](https://github.com/IngCr3at1on/android_packages_apps_Phone) repo instead of the CM one; currently the only change is the revert to the recent Dutch translation addition, as this doesn't built (yes, CM will fix it but in the meantime...).

@@ -21,3 +21,7 @@
 ### 03/02/2012
 * Using local [bootable_recovery](https://github.com/IngCr3at1on/android_bootable_recovery) repo instead of CM one. See the corresponding readme/history markdowns for more information.
 * Changed fetch to use whatever delivery method is chosen on init (this is done per CM to avoid conflicts, githubs preferred delivery method is HTTP and therefore it is suggested but if you have issues you can init with normal git) (this causes some sync errors with older versions of repo please see the commit message for more information).
+
+### 03/07/2012
+* Using local [packages_apps_Phone](https://github.com/IngCr3at1on/android_packages_apps_Phone) repo instead of the CM one; currently the only change is a revert to the recent addition of Dutch translations (breaks the build) (yes CM will fix it, but in the meantime...).
+
